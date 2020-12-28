@@ -19,7 +19,7 @@ Clone the repository: ```https://github.com/arces-wot/SEPAview.git```
 
 ## Authors
 
-* **Martina Verardi** - *Initial work* - [Shady96](https://github.com/Shady96)
+* **Martina Verardi** - *Initial work* - [Shady96](https://github.com/MartinaVerardi)
 * **Cristiano Aguzzi** - *Initial work* - [relu91](https://github.com/relu91)
 * **Luca Roffia** - *Initial work* - [lroffia](https://github.com/lroffia)
 * **Lorenzo Pisanò** - *Contributor* - [lorenzo0](https://github.com/lorenzo0)
